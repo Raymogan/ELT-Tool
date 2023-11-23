@@ -1,0 +1,8 @@
+Transaction ID,Transaction Date,Amount,Merchant Name
+123456,2022-04-01,50.00,Acme Retail
+123457,2022-04-01,75.25,XYZ Gas
+123458,2022-04-02,10.00,Acme Retail
+123459,2022-04-02,5.00$,ABC Pharmacy
+123460,2022-04-02,5.00$,ABC Pharmacy
+123461,2022-04-03,30.00,Acme Retail
+123461,2022-04-03,30.00,
