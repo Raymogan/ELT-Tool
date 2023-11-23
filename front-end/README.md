@@ -28,7 +28,7 @@ Ensure the following steps to run the project:
 1. Set up the React project:
 
 ```bash
-cd frontend
+cd front-end
 npm install
 ```
 
@@ -43,7 +43,7 @@ npm run dev
 1. Install Django and dependencies:
 
 ```bash
-cd backend
+cd back-end
 pip install -r requirements.txt
 ```
 
